@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input:focus{
+   box-shadow: inset 0 -1px 0 #ddd ;
+}
+
+input{
+  border-radius: 30px;
+}
+
+
+
+
